@@ -1,1 +1,5 @@
 hello
+public class A
+{
+
+}
